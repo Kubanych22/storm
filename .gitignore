@@ -1,0 +1,19 @@
+# IDE
+.idea/
+.vscode/
+
+# Project dependencies
+node_modules/
+.sass-cache
+
+# npm debugging logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# generated code
+dist/
+public/
+build/
